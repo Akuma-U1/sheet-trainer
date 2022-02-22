@@ -1,0 +1,9 @@
+
+.Note-body {
+    background-color: rgb(38, 38, 45);
+    border-radius: 50%;
+    @font-face {
+        font-family: ;
+        src: url();
+    }
+}

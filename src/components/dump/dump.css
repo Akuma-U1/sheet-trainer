@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'NotesFont';
+    src: url(../../assets/notes/Musisync-KVLZ.ttf);
+}
+
+.notes {
+    font-family: 'NotesFont';
+}
+
+.notes.large-notes{
+    font-size: 32px;
+}
